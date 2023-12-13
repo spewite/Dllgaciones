@@ -1,0 +1,10 @@
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\bin\Debug\Dllgaciones.dll
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\bin\Debug\Dllgaciones.pdb
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\bin\Debug\Dllgaciones.xml
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.vbproj.AssemblyReference.cache
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.Resources.resources
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.vbproj.GenerateResource.cache
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.vbproj.CoreCompileInputs.cache
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.dll
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.xml
+C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.pdb

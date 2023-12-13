@@ -4,8 +4,8 @@ Imports System.IO
 
 Public Class BaseDeDatos
 
-    Shared Function ConsultaBBDD(NombreInstanciaBBDD As String, NombreBBDD As String, UserBBDD As String, PasswordBBDD As String, SentenciaSQL As String) As DataTable
-        Dim connectionString As String = $"Data Source={NombreInstanciaBBDD}; Initial Catalog={NombreBBDD}; User ID={UserBBDD}; Password={PasswordBBDD}"
+    Shared Function ConsultaBBDD(SentenciaSQL As String) As DataTable
+        Dim connectionString As String = "Data Source=192.168.0.241; Initial Catalog=DELEGACION; User ID=sa; Password=Negrocabron8@"
         Dim dataTable As New DataTable
 
         Try
@@ -26,8 +26,8 @@ Public Class BaseDeDatos
         End Try
     End Function
 
-    Shared Function InsertBBDD(NombreInstanciaBBDD As String, nombreBBDD As String, UserBBDD As String, PasswordBBDD As String, SentenciaSQL As String) As Integer
-        Dim connectionString As String = $"Initial Catalog={nombreBBDD}; Data Source={NombreInstanciaBBDD}; User ID={UserBBDD}; Password={PasswordBBDD}"
+    Shared Function InsertBBDD(SentenciaSQL As String) As Integer
+        Dim connectionString As String = "Data Source=192.168.0.241; Initial Catalog=DELEGACION; User ID=sa; Password=Negrocabron8@"
         Dim filasInsertadas As Integer = 0
 
         Try
