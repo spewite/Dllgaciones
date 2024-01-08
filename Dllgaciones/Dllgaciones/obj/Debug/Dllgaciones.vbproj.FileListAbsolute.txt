@@ -8,3 +8,13 @@ C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.vbproj
 C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.dll
 C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.xml
 C:\Clase\Visual\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.pdb
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\bin\Debug\Dllgaciones.dll
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\bin\Debug\Dllgaciones.pdb
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\bin\Debug\Dllgaciones.xml
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.vbproj.AssemblyReference.cache
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.Resources.resources
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.vbproj.GenerateResource.cache
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.vbproj.CoreCompileInputs.cache
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.dll
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.xml
+C:\Users\Izeta\source\repos\2UD\[RETO]\Dllgaciones\Dllgaciones\Dllgaciones\obj\Debug\Dllgaciones.pdb

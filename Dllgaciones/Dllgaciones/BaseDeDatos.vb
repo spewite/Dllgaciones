@@ -63,4 +63,25 @@ Public Class BaseDeDatos
 
         Return filasActualizadas
     End Function
+
+
+    Shared Function DeleteBBDD(connectionString As String, SentenciaSQL As String) As Integer
+        Dim filasActualizadas As Integer = 0
+
+        Try
+            Using connection As New SqlConnection(connectionString)
+                connection.Open()
+                Using cmd As New SqlCommand(SentenciaSQL, connection)
+
+                    ' Ejecutar la consulta
+                    filasActualizadas = cmd.ExecuteNonQuery()
+                End Using
+                connection.Close()
+            End Using
+        Catch ex As Exception
+            MsgBox(ex.Message, vbCritical + vbOKOnly, "Error en la BBDD")
+        End Try
+
+        Return filasActualizadas
+    End Function
 End Class
